@@ -1,0 +1,21 @@
+{
+  "name": "engenharia-ii",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/game.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "<!-- {codigo em singleton} -->",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
